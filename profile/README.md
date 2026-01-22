@@ -1,13 +1,23 @@
-# Welcome to the FWRI Coral Research Program's Data Repositories  
+# Welcome to the FWRI Coral Research Program's Github Organization
+
+
+  <p align="center">
+  <img
+    src="https://myfwc.com/media/20544/diseased-coral-close-view.jpg"
+    alt="Reef Survey Site in Florida Keys"
+    width="1000"
+  />
+</p>
 
 ## Overview:
-- [The Fish & Wildlife Institute's Coral Research Program](https://myfwc.com/research/habitat/coral/) (FWRI CRP) manages Florida reef survey data from multiple public and private organizations. Our data is collected by teams of interdisciplinary researchers on more than 70 reef sites spanning the Florida coast, Florida Keys, and Dry Tortugas! Survey data is collected on site by trained observers (coral counts, coverage, and condition), or via autonomous logging devices installed at sites and monitored by researchers (temperature).
+- [The Fish & Wildlife Institute's Coral Research Program](https://myfwc.com/research/habitat/coral/) (FWRI CRP) manages Florida reef survey data from multiple public and private organizations. Our data is collected by teams of interdisciplinary researchers on more than 70 [reef sites](https://myfwc.maps.arcgis.com/apps/webappviewer/index.html?id=ea7ac98649474cb9af7a6a20c823846d) spanning the Florida coast, Florida Keys, and Dry Tortugas! Survey data is collected on site by trained observers (coral counts, coverage, and condition), or via autonomous logging devices installed at sites and monitored by researchers (temperature).
+
 
   <p align="center">
   <img
     src="https://myfwc.com/media/kxkcxc2s/cremp_overview-map.jpg?format=webp&quality=65"
     alt="CREMP Dataset Spatial Coverage"
-    width="600"
+    width="800"
   />
 </p>
 
