@@ -25,4 +25,4 @@ The majority of our long-term ecological data comes from the [Coral Reef Evaluat
 
 The FWRI CRP repositories posted here will house the scripts (.Qmd, .Rmd, .R, etc.) used to clean, standardize, and manipulate FWRI data, and will each contain work on a specific dataset. Metadata for each data set will be found in the corresponding respositories as README.md files, with additional data summaries at the top of each individual script. Should you have any additional questions or comments regarding data organization, origin, or use, please direct them to our associated email.
 
-* Note: Please be aware that at this time we are cleaning and streamlining our databases to increase ease of use and public accessibility. As this project is ongoing, repositories will be populated and metadata updated as progress is made. Thank you for your patience!
+* (Note): Please be aware at this time we are cleaning and streamlining our databases to increase ease of use and public accessibility. As this project is ongoing, repositories will be populated and metadata updated as progress is made. Thank you for your patience!
